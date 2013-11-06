@@ -42,4 +42,4 @@ build/theora.framework/theora : buildLib.sh buildFramework.sh build/ogg.framewor
 	  theora \
 	  "$(ARCHES)" \
 	  "" \
-	  "--with-ogg=`pwd`/build/libogg/multiarch --disable-shared --disable-oggtest --disable-vorbistest --disable-examples --disable-asm"
+	  "--with-ogg=`pwd`/build/libogg/multiarch --disable-shared --disable-oggtest --disable-vorbistest --disable-examples"
