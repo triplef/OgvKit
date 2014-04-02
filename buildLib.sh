@@ -36,7 +36,7 @@ case $ARCH in
     ;;
 esac
 
-SDK_VERSION=7.0
+SDK_VERSION=7.1
 SDK_MINVER=6.0
 
 XCODE_ROOT=`xcode-select -print-path`

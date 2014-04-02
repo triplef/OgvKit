@@ -7,7 +7,7 @@ Based on older build instructions found at http://iosdeveloperzone.com/2012/09/3
 # Prerequisites
 
 * Mac OS X 10.9 machine
-* Xcode 5.0.1 with iOS 7.0 SDK and CLI tools installed
+* Xcode 5.1 with iOS 7.1 SDK and CLI tools installed
 * install autoconf, automake, and libtool from Homebrew
 * (...hopefully that's it...)
 
